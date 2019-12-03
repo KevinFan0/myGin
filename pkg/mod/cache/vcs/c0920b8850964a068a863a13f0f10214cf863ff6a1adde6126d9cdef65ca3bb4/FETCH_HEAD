@@ -1,0 +1,16 @@
+aebdd71580c9695efc5e5d71a71d49e15db5c5f3		branch 'context' of https://github.com/cactus/go-statsd-client
+26d3aa5f0ba02acf8d5ef838014d06d976831e39		branch 'issue-36' of https://github.com/cactus/go-statsd-client
+47b6058c80f53b9d6f8af839bf82de17cf80e1f2		branch 'master' of https://github.com/cactus/go-statsd-client
+8687be2fbc7b16afc0c186e8916eb910b804e740		branch 'stat-validation' of https://github.com/cactus/go-statsd-client
+07581e771a89b6f025a12f977a289e3a8c5a9faf		branch 'tcp-testing' of https://github.com/cactus/go-statsd-client
+0690eefd66b9c469f055e92e5811fa469c69d107		tag 'v1.0.0' of https://github.com/cactus/go-statsd-client
+4fa695b8d20aaf107e6ebf18a8459f1a34105176		tag 'v1.0.1' of https://github.com/cactus/go-statsd-client
+83701a41396aec379edea7d7a6620c83c455a4e8		tag 'v2.0.0' of https://github.com/cactus/go-statsd-client
+5f047337e128592b25be0a6441eea516a8ff7c30		tag 'v2.0.1' of https://github.com/cactus/go-statsd-client
+68adff644f921611170546e78049bce5dfd86e28		tag 'v2.0.2' of https://github.com/cactus/go-statsd-client
+b1170b103c1e4275defeb9464e6a99c1751643b5		tag 'v3.0.0' of https://github.com/cactus/go-statsd-client
+1086b4e5d350d966c8ebfa298b1adac30c00d916		tag 'v3.0.1' of https://github.com/cactus/go-statsd-client
+a1037da74e9b59f089590d8d86283d153e56701f		tag 'v3.0.2' of https://github.com/cactus/go-statsd-client
+5e08b353dc296b33f5726727cb960970effa64f6		tag 'v3.0.3' of https://github.com/cactus/go-statsd-client
+7e1e5e232a76593d79394c85f141ee4a4abe25db		tag 'v3.1.0' of https://github.com/cactus/go-statsd-client
+0b786814c092450fd7a79dfc446aef6750d32dff		tag 'v3.1.1' of https://github.com/cactus/go-statsd-client
