@@ -21,7 +21,7 @@ func MultipartUrlencodedForm(c *gin.Context)  {
 	})
 }
 
-func main() {
+func main2() {
 	// Creates a gin router with default middleware:
 	// logger and recovery (crash-free) middleware
 	router := gin.Default()
